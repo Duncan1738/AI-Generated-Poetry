@@ -40,10 +40,10 @@ poetry_generator = pipeline("text-generation", model="gpt2")
 # Example prompt
 prompt = "The golden sun kisses the morning sea"
 poetry = generate_poetry(prompt)
-
-print("\n🌟 AI-Generated Poetry 🌟\n")
+print("\n AI-Generated Poetry \n")
 print(poetry)
-📊 Example Output
+---
+### Example Output
 🔹 Input Prompt
 "The golden sun kisses the morning sea"
 🔹 AI-Generated Poem
