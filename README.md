@@ -22,7 +22,7 @@ Try different themes:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### **1️⃣ Install Dependencies**
 Run the following command:
