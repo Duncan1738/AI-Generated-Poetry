@@ -17,7 +17,7 @@ The AI takes a **starting prompt** and creates **a flowing poem** using deep lea
 Try different themes:
 -  `"A lonely moon whispers to the night"`
 -  `"The golden sun kisses the morning sea"`
-- 💕 `"Love is a river flowing through time"`
+-  `"Love is a river flowing through time"`
 - 🌲 `"A mysterious forest filled with forgotten dreams"`
 
 ---
