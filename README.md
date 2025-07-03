@@ -62,20 +62,12 @@ print(poetry)
 - Interactive UI – Deploy a Flask/Streamlit-based poetry generator.
 - Thematic Poetry Generation – Enhance AI to write in specific poetic tones.
 
- MIT License.
-
-📧 Contact
-For questions or suggestions, feel free to reach out:
-👨‍💻 Duncan Kibet
-📌 GitHub Profile: github.com/Duncan1738
-
-📜 Want to generate beautiful AI poetry? Fork the repo & experiment with new prompts! 🚀🔥
-📢 Feel free to contribute with new poetic themes & enhancements! 🎭✨
 ---
 
-## **🚀 Next Steps**
-- ✅ Add **rhyme schemes** (AABB, ABAB, etc.).  
-- ✅ Fine-tune GPT for **Shakespearean or modern poetry styles**.  
-- ✅ **Web app version** for real-time poetry generation.  
+## ** Next Steps**
+- Add **rhyme schemes** (AABB, ABAB, etc.).  
+- Fine-tune GPT for **Shakespearean or modern poetry styles**.  
+- **Web app version** for real-time poetry generation.
 
-Would you like **a mobile app or AI voice narration of generated poems?** 🚀📜
+--- 
+ MIT License.
