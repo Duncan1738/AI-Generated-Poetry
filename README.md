@@ -13,7 +13,7 @@ The AI takes a **starting prompt** and creates **a flowing poem** using deep lea
 
 ---
 
-## 🌟 Example Poetry Prompts
+##  Example Poetry Prompts
 Try different themes:
 - 🌙 `"A lonely moon whispers to the night"`
 - 🌊 `"The golden sun kisses the morning sea"`
