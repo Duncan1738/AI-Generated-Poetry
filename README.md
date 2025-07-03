@@ -36,7 +36,7 @@ poetry_generator = pipeline("text-generation", model="gpt2")
     print(f"🌿 Generating poetry for: {prompt}\n")
     poem = poetry_generator(prompt, max_length=max_length, num_return_sequences=1)[0]['generated_text']
     return poem***
-
+---
 # Example prompt
 prompt = "The golden sun kisses the morning sea"
 poetry = generate_poetry(prompt)
