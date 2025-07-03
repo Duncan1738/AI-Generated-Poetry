@@ -33,7 +33,7 @@ from transformers import pipeline
 poetry_generator = pipeline("text-generation", model="gpt2")
 
 ***def generate_poetry(prompt, max_length=100):
-    print(f"🌿 Generating poetry for: {prompt}\n")
+    print(f"Generating poetry for: {prompt}\n")
     poem = poetry_generator(prompt, max_length=max_length, num_return_sequences=1)[0]['generated_text']
     return poem***
 ---
@@ -44,24 +44,25 @@ print("\n AI-Generated Poetry \n")
 print(poetry)
 ---
 ### Example Output
-🔹 Input Prompt
+- 🔹 Input Prompt
 "The golden sun kisses the morning sea"
-🔹 AI-Generated Poem
-The golden sun kisses the morning sea,  
-A dance of light on waves so free.  
-Reflections shimmer, gold and bright,  
-As dawn awakens with tender light.  
-🛠️ Use Cases
-📖 Creative Writing – AI-assisted poetry composition.
-✨ Inspirational Quotes – Generate poetic phrases and thoughts.
-🎵 Storytelling & Lyrics – Experiment with AI-generated literature.
-✨ Future Enhancements
-✅ Custom Poetry Styles – Fine-tune AI to generate haikus, sonnets, and free verse.
-✅ Interactive UI – Deploy a Flask/Streamlit-based poetry generator.
-✅ Thematic Poetry Generation – Enhance AI to write in specific poetic tones.
+- 🔹 AI-Generated Poem
+- The golden sun kisses the morning sea,  
+- A dance of light on waves so free.  
+- Reflections shimmer, gold and bright,  
+- As dawn awakens with tender light.
+  
+ ### Use Cases
+- Creative Writing – AI-assisted poetry composition.
+- Inspirational Quotes – Generate poetic phrases and thoughts.
+- Storytelling & Lyrics – Experiment with AI-generated literature.
 
-📜 License
-This project is licensed under the MIT License.
+### Future Enhancements
+- Custom Poetry Styles – Fine-tune AI to generate haikus, sonnets, and free verse.
+- Interactive UI – Deploy a Flask/Streamlit-based poetry generator.
+- Thematic Poetry Generation – Enhance AI to write in specific poetic tones.
+
+ MIT License.
 
 📧 Contact
 For questions or suggestions, feel free to reach out:
