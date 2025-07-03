@@ -32,10 +32,10 @@ from transformers import pipeline
 # Load GPT-2 poetry generator
 poetry_generator = pipeline("text-generation", model="gpt2")
 
-def generate_poetry(prompt, max_length=100):
+***def generate_poetry(prompt, max_length=100):
     print(f"🌿 Generating poetry for: {prompt}\n")
     poem = poetry_generator(prompt, max_length=max_length, num_return_sequences=1)[0]['generated_text']
-    return poem
+    return poem***
 
 # Example prompt
 prompt = "The golden sun kisses the morning sea"
