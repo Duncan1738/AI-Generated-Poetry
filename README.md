@@ -1,4 +1,4 @@
-# 📜 AI-Generated Poetry  
+# AI-Generated Poetry  
 
 This project uses **GPT-2** to generate **AI-powered poetry** based on **user-defined themes**.  
 The AI takes a **starting prompt** and creates **a flowing poem** using deep learning.
