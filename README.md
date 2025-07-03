@@ -24,14 +24,11 @@ Try different themes:
 
 ##  Getting Started
 
-### **1️⃣ Install Dependencies**
-Run the following command:
-```bash
+### **1 Install Dependencies**
+- Run the following command:
 pip install transformers torch
-
-2️⃣ Generate AI Poetry
+- Generate AI Poetry
 from transformers import pipeline
-
 # Load GPT-2 poetry generator
 poetry_generator = pipeline("text-generation", model="gpt2")
 
