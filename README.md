@@ -6,10 +6,10 @@ The AI takes a **starting prompt** and creates **a flowing poem** using deep lea
 ---
 
 ##  Features
-✅ **Installs Required Libraries** – `transformers`, `torch`.  
-✅ **Loads GPT-2 Model** – Uses a **pre-trained GPT-2 text generation model**.  
-✅ **Generates AI Poetry** – Creates **poetic verses** from a given **prompt**.  
-✅ **Displays the AI-Generated Poem** – Prints the **generated poetry in the notebook**.  
+ **Installs Required Libraries** – `transformers`, `torch`.  
+ **Loads GPT-2 Model** – Uses a **pre-trained GPT-2 text generation model**.  
+ **Generates AI Poetry** – Creates **poetic verses** from a given **prompt**.  
+ **Displays the AI-Generated Poem** – Prints the **generated poetry in the notebook**.  
 
 ---
 
