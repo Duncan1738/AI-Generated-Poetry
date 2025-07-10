@@ -24,7 +24,7 @@ Try different themes:
 
 ##  Getting Started
 
-### **1 Install Dependencies**
+### **Install Dependencies**
 - Run the following command:
 pip install transformers torch:
 - Generate AI Poetry
