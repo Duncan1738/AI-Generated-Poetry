@@ -44,7 +44,7 @@ print(poetry)
 ```
 ---
 ### Example Output
-- 🔹 Input Prompt
+- Input Prompt
 "The golden sun kisses the morning sea"
 - 🔹 AI-Generated Poem
 - The golden sun kisses the morning sea,  
