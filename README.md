@@ -46,7 +46,7 @@ print(poetry)
 ### Example Output
 - Input Prompt
 "The golden sun kisses the morning sea"
-- 🔹 AI-Generated Poem
+- AI-Generated Poem
 - The golden sun kisses the morning sea,  
 - A dance of light on waves so free.  
 - Reflections shimmer, gold and bright,  
