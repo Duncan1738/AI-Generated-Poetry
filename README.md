@@ -63,7 +63,7 @@ print(poetry)
 
 ---
 
-## ** Next Steps**
+##  Next Steps
 - Add **rhyme schemes** (AABB, ABAB, etc.).  
 - Fine-tune GPT for **Shakespearean or modern poetry styles**.  
 - **Web app version** for real-time poetry generation.
