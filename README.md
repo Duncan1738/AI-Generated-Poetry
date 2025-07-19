@@ -68,5 +68,4 @@ print(poetry)
 - Fine-tune GPT for **Shakespearean or modern poetry styles**.  
 - **Web app version** for real-time poetry generation.
 
---- 
  
